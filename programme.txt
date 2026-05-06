@@ -1,2 +1,1 @@
-#en fait non
-#mais aussi bloublou
+print("salut")
